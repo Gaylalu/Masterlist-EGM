@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Fallback Machine A",
+    "location": "Fallback City",
+    "status": "Active",
+    "description": "Used only if Google Sheets API fails."
+  },
+  {
+    "id": 2,
+    "name": "Fallback Machine B",
+    "location": "Fallback City",
+    "status": "Maintenance",
+    "description": "Sample record for offline mode."
+  }
+]
